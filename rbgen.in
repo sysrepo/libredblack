@@ -6,7 +6,7 @@
 #
 # $Log: rbgen.in,v $
 # Revision 1.3  2003/10/24 01:31:21  damo
-# Patches from Eric Raymond: %prefix is implemented.  Various other small
+# Patches from Eric Raymond: %prefix is implemented. Various other small
 # changes avoid stepping on global namespaces and improve the documentation.
 #
 # Revision 1.2  2003/10/23 04:18:47  damo

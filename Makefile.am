@@ -21,7 +21,6 @@ example3_LDADD=libredblack.la
 nodist_example4_SOURCES=example4.c
 example4_LDADD=
 CLEANFILES=example4.c
-CFLAGS=-Wall
 
 if USE_RBGEN
 SUFFIXES = .rb
