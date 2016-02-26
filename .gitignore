@@ -30,3 +30,13 @@
 
 # Debug files
 *.dSYM/
+
+# some others
+.deps/*
+Makefile
+config.h
+config.log
+config.status
+libtool
+rbgen
+stamp-h1
